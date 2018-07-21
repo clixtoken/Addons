@@ -20,10 +20,6 @@ If your template folder's name is different from the default 'ModernBlue', simpl
 
 ### For questions and problems:
 
-https://t.me/clixtoken
-
-info@clixtoken.io
+I can usually be reached on [Telegram](https://t.me/clixtoken) or via e-mail (info at clixtoken.io)
 
 The CLIXToken team 
-
-https://clixtoken.io
