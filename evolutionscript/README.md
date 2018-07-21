@@ -10,9 +10,9 @@
 
 - Click on 'Install' when asked
 
-- After installation check out the 'Readme'section of the addon for additional information
+- After installation check out the 'Readme' section of the addon for additional information
 
-- The user interface is located inyourwebsite.com/clixtoken.php
+- The user interface is located in yourwebsite.com/clixtoken.php
 
 ## Note:
 
@@ -21,7 +21,9 @@ If your template folder's name is different from the default 'ModernBlue', simpl
 ### For questions and problems:
 
 https://t.me/clixtoken
+
 info@clixtoken.io
 
 The CLIXToken team 
+
 https://clixtoken.io
