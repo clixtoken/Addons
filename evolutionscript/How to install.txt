@@ -1,0 +1,40 @@
+=================================================
+|						|
+|   CLIXToken addon module for EvolutionScript	|
+| 						|
+=================================================
+
+1. Upload all the files in the UPLOAD directory 
+to your server
+
+2. Make sure to keep the folder structure intact
+
+3. After uploading visit your admin panel's 
+Utilities -> Addon Modules
+
+4. Click on 'Clixtoken'
+
+5. Click on 'Install' when asked
+
+6. After installation check out the 'Readme'
+section of the addon for additional information
+
+7. The user interface is located in
+yourwebsite.com/clixtoken.php
+
+=================================================
+
+Note: if your template folder's name is different 
+from the default 'ModernBlue', simply upload the 
+containing clixtoken.tpl file into your own 
+template folder.
+
+=================================================
+
+For questions and problems:
+
+https://t.me/clixtoken
+info@clixtoken.io
+
+The CLIXToken team 
+https://clixtoken.io
